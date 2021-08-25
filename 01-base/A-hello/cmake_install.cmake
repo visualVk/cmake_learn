@@ -1,4 +1,4 @@
-# Install script for directory: /home/visualvk/code/cpp/cmake/01-base
+# Install script for directory: /home/visualvk/code/cpp/cmake/01-base/A-hello
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/visualvk/code/cpp/cmake/01-base/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/visualvk/code/cpp/cmake/01-base/A-hello/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

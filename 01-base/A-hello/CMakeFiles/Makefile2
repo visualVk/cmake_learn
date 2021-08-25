@@ -54,10 +54,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/visualvk/code/cpp/cmake/01-base
+CMAKE_SOURCE_DIR = /home/visualvk/code/cpp/cmake/01-base/A-hello
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/visualvk/code/cpp/cmake/01-base
+CMAKE_BINARY_DIR = /home/visualvk/code/cpp/cmake/01-base/A-hello
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -81,14 +81,14 @@ clean: CMakeFiles/hello_world.dir/clean
 CMakeFiles/hello_world.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/hello_world.dir/build.make CMakeFiles/hello_world.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/hello_world.dir/build.make CMakeFiles/hello_world.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/visualvk/code/cpp/cmake/01-base/CMakeFiles --progress-num=1,2 "Built target hello_world"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/visualvk/code/cpp/cmake/01-base/A-hello/CMakeFiles --progress-num=1,2 "Built target hello_world"
 .PHONY : CMakeFiles/hello_world.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/hello_world.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/visualvk/code/cpp/cmake/01-base/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/visualvk/code/cpp/cmake/01-base/A-hello/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/hello_world.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/visualvk/code/cpp/cmake/01-base/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/visualvk/code/cpp/cmake/01-base/A-hello/CMakeFiles 0
 .PHONY : CMakeFiles/hello_world.dir/rule
 
 # Convenience name for target.

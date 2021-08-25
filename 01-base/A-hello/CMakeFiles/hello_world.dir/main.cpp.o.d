@@ -1,5 +1,5 @@
 CMakeFiles/hello_world.dir/main.cpp.o: \
- /home/visualvk/code/cpp/cmake/01-base/main.cpp \
+ /home/visualvk/code/cpp/cmake/01-base/A-hello/main.cpp \
  /usr/include/stdc-predef.h \
  /usr/include/c++/11.1.0/x86_64-pc-linux-gnu/bits/stdc++.h \
  /usr/include/c++/11.1.0/cassert \

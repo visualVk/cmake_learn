@@ -1,3 +1,0 @@
-/home/visualvk/code/cpp/cmake/01-base/CMakeFiles/rebuild_cache.dir
-/home/visualvk/code/cpp/cmake/01-base/CMakeFiles/edit_cache.dir
-/home/visualvk/code/cpp/cmake/01-base/CMakeFiles/hello_world.dir

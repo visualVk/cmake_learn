@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/visualvk/code/cpp/cmake/01-base/main.cpp" "CMakeFiles/hello_world.dir/main.cpp.o" "gcc" "CMakeFiles/hello_world.dir/main.cpp.o.d"
+  "/home/visualvk/code/cpp/cmake/01-base/A-hello/main.cpp" "CMakeFiles/hello_world.dir/main.cpp.o" "gcc" "CMakeFiles/hello_world.dir/main.cpp.o.d"
   )
 
 # Targets to which this target links.
