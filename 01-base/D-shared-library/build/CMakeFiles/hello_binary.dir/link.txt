@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/hello_binary.dir/src/main.cpp.o -o hello_binary  -Wl,-rpath,/home/visualvk/code/cpp/cmake/01-base/D-shared-library/build libhello_library.so 

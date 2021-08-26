@@ -1,0 +1,4 @@
+/home/visualvk/code/cpp/cmake/01-base/D-shared-library/build/CMakeFiles/rebuild_cache.dir
+/home/visualvk/code/cpp/cmake/01-base/D-shared-library/build/CMakeFiles/edit_cache.dir
+/home/visualvk/code/cpp/cmake/01-base/D-shared-library/build/CMakeFiles/hello_binary.dir
+/home/visualvk/code/cpp/cmake/01-base/D-shared-library/build/CMakeFiles/hello_library.dir
