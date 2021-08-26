@@ -1,0 +1,3 @@
+/home/visualvk/code/cpp/cmake/01-base/K-imported-target/build/CMakeFiles/rebuild_cache.dir
+/home/visualvk/code/cpp/cmake/01-base/K-imported-target/build/CMakeFiles/edit_cache.dir
+/home/visualvk/code/cpp/cmake/01-base/K-imported-target/build/CMakeFiles/imported_targets.dir
