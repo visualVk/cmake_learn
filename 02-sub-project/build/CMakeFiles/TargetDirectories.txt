@@ -1,0 +1,10 @@
+/home/visualvk/code/cpp/cmake/02-sub-project/build/CMakeFiles/rebuild_cache.dir
+/home/visualvk/code/cpp/cmake/02-sub-project/build/CMakeFiles/edit_cache.dir
+/home/visualvk/code/cpp/cmake/02-sub-project/build/subbinary/CMakeFiles/rebuild_cache.dir
+/home/visualvk/code/cpp/cmake/02-sub-project/build/subbinary/CMakeFiles/edit_cache.dir
+/home/visualvk/code/cpp/cmake/02-sub-project/build/subbinary/CMakeFiles/subbinary.dir
+/home/visualvk/code/cpp/cmake/02-sub-project/build/sublibrary1/CMakeFiles/rebuild_cache.dir
+/home/visualvk/code/cpp/cmake/02-sub-project/build/sublibrary1/CMakeFiles/edit_cache.dir
+/home/visualvk/code/cpp/cmake/02-sub-project/build/sublibrary1/CMakeFiles/sublibrary1.dir
+/home/visualvk/code/cpp/cmake/02-sub-project/build/sublibrary2/CMakeFiles/rebuild_cache.dir
+/home/visualvk/code/cpp/cmake/02-sub-project/build/sublibrary2/CMakeFiles/edit_cache.dir

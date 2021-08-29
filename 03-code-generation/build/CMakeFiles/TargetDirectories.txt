@@ -1,0 +1,3 @@
+/home/visualvk/code/cpp/cmake/03-code-generation/build/CMakeFiles/rebuild_cache.dir
+/home/visualvk/code/cpp/cmake/03-code-generation/build/CMakeFiles/edit_cache.dir
+/home/visualvk/code/cpp/cmake/03-code-generation/build/CMakeFiles/cf_example.dir

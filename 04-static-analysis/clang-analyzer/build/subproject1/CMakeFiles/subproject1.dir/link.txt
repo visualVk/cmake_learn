@@ -1,0 +1,1 @@
+/usr/lib/clang/c++-analyzer -g CMakeFiles/subproject1.dir/main1.cpp.o -o subproject1 

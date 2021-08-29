@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/visualvk/code/cpp/cmake/04-static-analysis/clang-analyzer/build/subproject1",
+  "command": "/usr/lib/clang/c++-analyzer   -g -o CMakeFiles/subproject1.dir/main1.cpp.o -c /home/visualvk/code/cpp/cmake/04-static-analysis/clang-analyzer/subproject1/main1.cpp",
+  "file": "/home/visualvk/code/cpp/cmake/04-static-analysis/clang-analyzer/subproject1/main1.cpp"
+},
+{
+  "directory": "/home/visualvk/code/cpp/cmake/04-static-analysis/clang-analyzer/build/subproject2",
+  "command": "/usr/lib/clang/c++-analyzer   -g -o CMakeFiles/subproject2.dir/main2.cpp.o -c /home/visualvk/code/cpp/cmake/04-static-analysis/clang-analyzer/subproject2/main2.cpp",
+  "file": "/home/visualvk/code/cpp/cmake/04-static-analysis/clang-analyzer/subproject2/main2.cpp"
+}
+]
